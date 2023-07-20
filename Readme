@@ -1,10 +1,10 @@
 Python Version: 3.1.11
 Packages Pycryptodome,RSA
 
+#process
 Generate AES key
 Encrypt the data with AES key
 Generate RSA key pair (public key , private key)
-Encrypt the AES key with RSA key
 Encrypt the AES key with RSA key
 Verify Signature
 Decrypt AES key
